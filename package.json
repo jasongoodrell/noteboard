@@ -8,7 +8,7 @@
     "immutability-helper": "^2.6.6",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.1.1"
+    "react-scripts": "5.0.1"
   },
   "homepage": "http://jasonaloi.github.io/noteboard",
   "scripts": {
